@@ -1,7 +1,7 @@
 local WEBHOOK = "https://discord.com/api/webhooks/1204396999093256202/C2XTnYPmqiAxBCEn05qR1ZVZThUTQqwYNY2CNBDpvv2LpdGX5EVBEz3dqW9IuatCWUjl"
 local PINGID = "882228141530152971"
 -- Only edit the below to true or false
-local CLAIMFREETOKENS = true
+local CLAIMFREETOKENS = false
 local AUTO_HATCH_ENABLE = true
 local AUTO_FEED_ENABLE = true
 local AUTO_PRINTER_ENABLE = true
